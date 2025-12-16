@@ -12,6 +12,7 @@ npm (comes with Node.js)
 Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/NEETBUDDY-APP.git
+<br/>
 cd NEETBUDDY-APP
 
 Expo CLI
